@@ -1,4 +1,6 @@
 <?php
+//Anis Munadhiroh
+//PTIK 2013
 /**
  * CodeIgniter
  *
